@@ -17,7 +17,6 @@ pip install mkdocs-material
 
 |Ludicrous Feature|Description|
 |-------|-----------|
-|Commands|Add awesome custom commands to your server!|
 |Levels|Let your users gain XP and levels by participating in the chat!|
 |Moderator|Empower your moderators with cool commands!|
 |Search Anything|Search the Internet for whatever you want!|
@@ -31,7 +30,7 @@ pip install mkdocs-material
 |Help|Enables the !help command.|
 > AND MUCH MORE
 
-## Who made this?
+## Yarn Publishing 2021 Jennifer Crosier @GhouliesNFT
 
 <p align="center">
 <img src="docs/pics/cookie.jpg?raw=true">
